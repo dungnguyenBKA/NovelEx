@@ -1,0 +1,2 @@
+# NovelEx
+Novel reading application
