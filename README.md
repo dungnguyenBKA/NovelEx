@@ -1,6 +1,7 @@
 # NovelEx
 
 ## Novel reading application
+## Link to project in Bitbucket: https://bitbucket.org/BachDvHust/novelandroidapp/
 ## Link apk: https://drive.google.com/drive/folders/1tWzEm7J9Kk0ho3YOAzcnyBYJyTgW3xzB
 
 ![giphy](https://user-images.githubusercontent.com/54151155/114778202-c1fe6380-9d9e-11eb-89d1-fa52f1a6931e.gif)
